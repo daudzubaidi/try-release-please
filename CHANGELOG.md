@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/daudzubaidi/try-release-please/compare/v1.0.0...v1.0.1) (2024-03-26)
+
+
+### Bug Fixes
+
+* 2 kali push fix commit ([#20](https://github.com/daudzubaidi/try-release-please/issues/20)) ([3a8c68c](https://github.com/daudzubaidi/try-release-please/commit/3a8c68cf5eca22d8ad6a74454af589a904ad18db))
+
 ## [1.0.0](https://github.com/daudzubaidi/try-release-please/compare/v0.2.1...v1.0.0) (2024-03-26)
 
 
