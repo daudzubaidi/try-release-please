@@ -1,5 +1,16 @@
 # Changelog
 
+## [1.0.0](https://github.com/daudzubaidi/try-release-please/compare/v0.2.1...v1.0.0) (2024-03-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* release major ([#17](https://github.com/daudzubaidi/try-release-please/issues/17))
+
+### Features
+
+* release major ([#17](https://github.com/daudzubaidi/try-release-please/issues/17)) ([4d4e794](https://github.com/daudzubaidi/try-release-please/commit/4d4e794648239de3b3f17badfe92cbb35c116ea6))
+
 ## [0.2.1](https://github.com/daudzubaidi/try-release-please/compare/v0.2.0...v0.2.1) (2024-03-26)
 
 
