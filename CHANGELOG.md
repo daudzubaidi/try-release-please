@@ -1,5 +1,28 @@
 # Changelog
 
+## [2.0.0](https://github.com/daudzubaidi/try-release-please/compare/v1.2.1...v2.0.0) (2024-03-26)
+
+
+### ⚠ BREAKING CHANGES
+
+* try update workflow ([#33](https://github.com/daudzubaidi/try-release-please/issues/33))
+
+### Features
+
+* try update workflow ([#33](https://github.com/daudzubaidi/try-release-please/issues/33)) ([fa6f04d](https://github.com/daudzubaidi/try-release-please/commit/fa6f04d3050ad46fc5a56037f788d9e063c912fc))
+
+
+### Bug Fixes
+
+* 3 ([#36](https://github.com/daudzubaidi/try-release-please/issues/36)) ([2c29a9d](https://github.com/daudzubaidi/try-release-please/commit/2c29a9d79ed7959b223c904946d57277ec724752))
+* 6 ([#39](https://github.com/daudzubaidi/try-release-please/issues/39)) ([b1ddee9](https://github.com/daudzubaidi/try-release-please/commit/b1ddee9838f416b0b6d8658806fad2b70170925e))
+* 7 ([#40](https://github.com/daudzubaidi/try-release-please/issues/40)) ([a741edd](https://github.com/daudzubaidi/try-release-please/commit/a741eddbe3ae2e7b7fea26bdc14325b68a3fc8f4))
+* 8 ([#41](https://github.com/daudzubaidi/try-release-please/issues/41)) ([3253616](https://github.com/daudzubaidi/try-release-please/commit/32536164c997247e7c22f77770eeda33dc7196b4))
+* test with release branch ([#32](https://github.com/daudzubaidi/try-release-please/issues/32)) ([5c3785e](https://github.com/daudzubaidi/try-release-please/commit/5c3785e49c004135de0a7d3c50d9925206ccec86))
+* try fix ([#37](https://github.com/daudzubaidi/try-release-please/issues/37)) ([310add3](https://github.com/daudzubaidi/try-release-please/commit/310add39d19921bf72a0d17feeb7483ac8fb01b6))
+* try release only in branch release ([#31](https://github.com/daudzubaidi/try-release-please/issues/31)) ([568d85d](https://github.com/daudzubaidi/try-release-please/commit/568d85da0b2540d6d19b8d2be01b19eff6d0ef6c))
+* try update release ([#35](https://github.com/daudzubaidi/try-release-please/issues/35)) ([5978e87](https://github.com/daudzubaidi/try-release-please/commit/5978e879e2f891ee5b46ca078cc931c7bfb4f029))
+
 ## [1.2.1](https://github.com/daudzubaidi/try-release-please/compare/v1.2.0...v1.2.1) (2024-03-26)
 
 
