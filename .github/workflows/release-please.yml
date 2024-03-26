@@ -22,6 +22,11 @@ jobs:
         with:
           node-version: '16'
 
+      - name: Set Git user identity
+        run: |
+          git config --global user.email "daudzubaidi"
+          git config --global user.name "daud.java@gmail.com"
+
       - name: Update package.json version
         run: |
           NEW_VERSION=$(jq -r '.version' package.json)
