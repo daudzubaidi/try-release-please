@@ -1,3 +1,3 @@
 # try-release-please
 
-try pudate
+try update readme file
