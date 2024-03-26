@@ -1,6 +1,6 @@
 {
   "name": "try-release-please",
-  "version": "1.0.4",
+  "version": "",
   "description": "testing release please",
   "main": "index.js",
   "scripts": {
