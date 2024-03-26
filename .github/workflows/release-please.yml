@@ -21,10 +21,9 @@ jobs:
       - uses: actions/setup-node@v3
         with:
           node-version: '16'
-
       - name: Update package.json version
         run: |
-          NEW_VERSION=$(jq -r '.release-pr.release.release_notes.body' release-please-manifest.json | awk '/^Version/{print $2}')
+          NEW_VERSION=$(jq -r '.releases[0].name' release-please-manifest.json | cut -d'v' -f2)
           npm version "${NEW_VERSION}" --no-git-tag-version --allow-same-version
           git add package.json
           git commit -m "chore: update package.json version to ${NEW_VERSION}"
