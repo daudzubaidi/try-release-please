@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.3](https://github.com/daudzubaidi/try-release-please/compare/v2.0.2...v2.0.3) (2024-03-26)
+
+
+### Bug Fixes
+
+* test update ([#47](https://github.com/daudzubaidi/try-release-please/issues/47)) ([84034f4](https://github.com/daudzubaidi/try-release-please/commit/84034f452535b4a63a4a5878f90de5806b4c48d8))
+
 ## [2.0.2](https://github.com/daudzubaidi/try-release-please/compare/v2.0.1...v2.0.2) (2024-03-26)
 
 
