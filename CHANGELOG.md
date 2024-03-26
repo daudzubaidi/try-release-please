@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/daudzubaidi/try-release-please/compare/v1.0.2...v1.1.0) (2024-03-26)
+
+
+### Features
+
+* remove npm ([#26](https://github.com/daudzubaidi/try-release-please/issues/26)) ([6255ab2](https://github.com/daudzubaidi/try-release-please/commit/6255ab273f1767f91f2ec75087943671be4b7eb1))
+
+
+### Bug Fixes
+
+* update yaml ([#24](https://github.com/daudzubaidi/try-release-please/issues/24)) ([93a2d92](https://github.com/daudzubaidi/try-release-please/commit/93a2d9290ccfd8663c4a442e45740accd31e5a3f))
+
 ## [1.0.2](https://github.com/daudzubaidi/try-release-please/compare/v1.0.1...v1.0.2) (2024-03-26)
 
 
