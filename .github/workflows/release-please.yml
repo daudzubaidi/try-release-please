@@ -27,10 +27,12 @@ jobs:
           git config --global user.email "daudzubaidi"
           git config --global user.name "daud.java@gmail.com"
 
+
       - name: Update package.json version
         run: |
-          NEW_VERSION=$(jq -r '.version' package.json)
-          npm version "${NEW_VERSION}" --no-git-tag-version --allow-same-version
+          npm version patch --no-git-tag-version --allow-same-version
           git add package.json
-          git commit -m "chore: update package.json version to ${NEW_VERSION}"
+          git status  # Add this line to check the status of the working tree
+          git diff   # Add this line to see the difference before committing
+          git commit -m "chore: update package.json version"
           git push
