@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.0.5](https://github.com/daudzubaidi/try-release-please/compare/v2.0.4...v2.0.5) (2024-03-26)
+
+
+### Bug Fixes
+
+* tes12 ([#51](https://github.com/daudzubaidi/try-release-please/issues/51)) ([63271b9](https://github.com/daudzubaidi/try-release-please/commit/63271b90dd3557463895f8b3974e7a3c9de3c9e7))
+
 ## [2.0.4](https://github.com/daudzubaidi/try-release-please/compare/v2.0.3...v2.0.4) (2024-03-26)
 
 
