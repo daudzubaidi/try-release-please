@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.2.0](https://github.com/daudzubaidi/try-release-please/compare/v1.1.0...v1.2.0) (2024-03-26)
+
+
+### Features
+
+* add branch ([#27](https://github.com/daudzubaidi/try-release-please/issues/27)) ([8eac97b](https://github.com/daudzubaidi/try-release-please/commit/8eac97ba9fa69a6f6a514ac5d4386a252ccafbad))
+
 ## [1.1.0](https://github.com/daudzubaidi/try-release-please/compare/v1.0.2...v1.1.0) (2024-03-26)
 
 
