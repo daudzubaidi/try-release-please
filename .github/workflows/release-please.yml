@@ -14,15 +14,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: google-github-actions/release-please-action@v4
-        with:
+        with:  # This line should be indented to align with 'uses'
           release-type: simple
-
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
-        with:
-          node-version: '16'
+    
+      - name: Checkout code  # Corrected indentation
+        uses: actions/checkout@v3
+        
       - name: Update package.json version
         run: |
+          cd $GITHUB_WORKSPACE  # Change to the correct working directory
           NEW_VERSION=$(jq -r '.releases[0].name' release-please-manifest.json | cut -d'v' -f2)
           npm version "${NEW_VERSION}" --no-git-tag-version --allow-same-version
           git add package.json
