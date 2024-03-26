@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/daudzubaidi/try-release-please/compare/v1.0.1...v1.0.2) (2024-03-26)
+
+
+### Bug Fixes
+
+* t9 patch ([#22](https://github.com/daudzubaidi/try-release-please/issues/22)) ([5463bb6](https://github.com/daudzubaidi/try-release-please/commit/5463bb6325cb69fc8a4077cdf21f3837b089648e))
+
 ## [1.0.1](https://github.com/daudzubaidi/try-release-please/compare/v1.0.0...v1.0.1) (2024-03-26)
 
 
