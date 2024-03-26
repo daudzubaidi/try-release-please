@@ -39,13 +39,14 @@ jobs:
 
       - name: Stage changes
         run: |
-          git add package.json package-lock.json
+          git add package.json
 
       - name: Commit changes
         run: |
           git config --global user.email "daudzubaidi"
           git config --global user.name "daud.java@gmail.com"
+          git checkout -b release-please-branch  # Create a new branch for the changes
           git commit -m "chore: update version to ${{ steps.get_version.outputs.version }}"
 
       - name: Push changes
-        run: git push origin main
+        run: git push origin release-please-branch
