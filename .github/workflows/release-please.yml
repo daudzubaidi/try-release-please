@@ -20,7 +20,7 @@ jobs:
         id: release
         uses: google-github-actions/release-please-action@v4
         with:
-          release-type: simple
+          release-type: node
           changelog-types: >
             [
               { "type": "build", "section": "Build System", "hidden": false },
